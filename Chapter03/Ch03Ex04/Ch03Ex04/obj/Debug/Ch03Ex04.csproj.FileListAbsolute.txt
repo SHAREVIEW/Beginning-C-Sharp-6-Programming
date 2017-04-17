@@ -1,0 +1,5 @@
+C:\Users\harry\Documents\csp\Chapter03\Ch03Ex04\Ch03Ex04\bin\Debug\Ch03Ex04.exe.config
+C:\Users\harry\Documents\csp\Chapter03\Ch03Ex04\Ch03Ex04\bin\Debug\Ch03Ex04.exe
+C:\Users\harry\Documents\csp\Chapter03\Ch03Ex04\Ch03Ex04\bin\Debug\Ch03Ex04.pdb
+C:\Users\harry\Documents\csp\Chapter03\Ch03Ex04\Ch03Ex04\obj\Debug\Ch03Ex04.exe
+C:\Users\harry\Documents\csp\Chapter03\Ch03Ex04\Ch03Ex04\obj\Debug\Ch03Ex04.pdb

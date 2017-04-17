@@ -1,0 +1,6 @@
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex03\Ch09Ex03\bin\Debug\Ch09Ex03.exe.config
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex03\Ch09Ex03\bin\Debug\Ch09Ex03.exe
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex03\Ch09Ex03\bin\Debug\Ch09Ex03.pdb
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.exe
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex03\Ch09Ex03\obj\Debug\Ch09Ex03.pdb

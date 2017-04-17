@@ -1,0 +1,5 @@
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Ch10CardLib\bin\Debug\Ch10CardLib.dll
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Ch10CardLib\bin\Debug\Ch10CardLib.pdb
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Ch10CardLib\obj\Debug\Ch10CardLib.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Ch10CardLib\obj\Debug\Ch10CardLib.dll
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Ch10CardLib\obj\Debug\Ch10CardLib.pdb

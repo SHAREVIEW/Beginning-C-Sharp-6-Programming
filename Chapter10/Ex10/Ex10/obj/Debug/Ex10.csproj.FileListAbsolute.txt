@@ -1,0 +1,5 @@
+C:\Users\harry\Documents\csp\Chapter10\Ex10\Ex10\bin\Debug\Ex10.dll
+C:\Users\harry\Documents\csp\Chapter10\Ex10\Ex10\bin\Debug\Ex10.pdb
+C:\Users\harry\Documents\csp\Chapter10\Ex10\Ex10\obj\Debug\Ex10.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter10\Ex10\Ex10\obj\Debug\Ex10.dll
+C:\Users\harry\Documents\csp\Chapter10\Ex10\Ex10\obj\Debug\Ex10.pdb

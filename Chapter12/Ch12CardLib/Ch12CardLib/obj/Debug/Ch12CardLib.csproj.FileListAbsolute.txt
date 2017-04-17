@@ -1,0 +1,10 @@
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\Ch12CardLib\bin\Debug\Ch12CardLib.dll
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\Ch12CardLib\bin\Debug\Ch12CardLib.pdb
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\Ch12CardLib\obj\Debug\Ch12CardLib.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\Ch12CardLib\obj\Debug\Ch12CardLib.dll
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\Ch12CardLib\obj\Debug\Ch12CardLib.pdb
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\bin\Debug\Ch12CardLib.dll
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\bin\Debug\Ch12CardLib.pdb
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\obj\Debug\Ch12CardLib.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\obj\Debug\Ch12CardLib.dll
+C:\Users\harry\Documents\csp\Chapter12\Ch12CardLib\Ch12CardLib\obj\Debug\Ch12CardLib.pdb

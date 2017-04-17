@@ -1,0 +1,8 @@
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe.config
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.pdb
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.dll
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLib.pdb
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.exe
+C:\Users\harry\Documents\csp\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.pdb
