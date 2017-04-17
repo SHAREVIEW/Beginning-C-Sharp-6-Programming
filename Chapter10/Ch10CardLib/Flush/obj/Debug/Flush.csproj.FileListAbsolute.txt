@@ -1,0 +1,8 @@
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\bin\Debug\Flush.exe.config
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\bin\Debug\Flush.exe
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\bin\Debug\Flush.pdb
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\bin\Debug\Ch10CardLib.dll
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\bin\Debug\Ch10CardLib.pdb
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\obj\Debug\Flush.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\obj\Debug\Flush.exe
+C:\Users\harry\Documents\csp\Chapter10\Ch10CardLib\Flush\obj\Debug\Flush.pdb

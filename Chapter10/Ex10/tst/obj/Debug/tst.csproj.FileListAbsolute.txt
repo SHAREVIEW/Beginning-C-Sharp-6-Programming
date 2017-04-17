@@ -1,0 +1,8 @@
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\bin\Debug\tst.exe.config
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\bin\Debug\tst.exe
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\bin\Debug\tst.pdb
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\bin\Debug\Ex10.dll
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\bin\Debug\Ex10.pdb
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\obj\Debug\tst.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\obj\Debug\tst.exe
+C:\Users\harry\Documents\csp\Chapter10\Ex10\tst\obj\Debug\tst.pdb

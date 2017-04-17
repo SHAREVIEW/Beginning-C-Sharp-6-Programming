@@ -1,0 +1,6 @@
+C:\Users\harry\Documents\csp\Chapter11\Ch11Prt\Practice11\Practice11\bin\Debug\Practice11.exe.config
+C:\Users\harry\Documents\csp\Chapter11\Ch11Prt\Practice11\Practice11\bin\Debug\Practice11.exe
+C:\Users\harry\Documents\csp\Chapter11\Ch11Prt\Practice11\Practice11\bin\Debug\Practice11.pdb
+C:\Users\harry\Documents\csp\Chapter11\Ch11Prt\Practice11\Practice11\obj\Debug\Practice11.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter11\Ch11Prt\Practice11\Practice11\obj\Debug\Practice11.exe
+C:\Users\harry\Documents\csp\Chapter11\Ch11Prt\Practice11\Practice11\obj\Debug\Practice11.pdb
