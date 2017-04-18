@@ -14,9 +14,6 @@ namespace Ch13CardLib
         public static bool isAceHigh = true;
         public object Clone() => MemberwiseClone();
 
-        private Card()
-        {}
-
         public Card(Suit newSuit, Rank newRank)
         {
             suit = newSuit;

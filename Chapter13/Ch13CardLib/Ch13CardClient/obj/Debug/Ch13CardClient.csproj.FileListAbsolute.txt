@@ -1,0 +1,1 @@
+C:\Users\harry\Documents\csp\Beginning-C-Sharp-6-Programming\Chapter13\Ch13CardLib\Ch13CardClient\bin\Debug\Ch13CardClient.exe.config
