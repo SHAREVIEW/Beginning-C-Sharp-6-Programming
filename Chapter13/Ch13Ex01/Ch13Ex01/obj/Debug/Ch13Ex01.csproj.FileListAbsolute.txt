@@ -1,0 +1,6 @@
+C:\Users\harry\Documents\csp\Chapter13\Ch13Ex01\Ch13Ex01\bin\Debug\Ch13Ex01.exe.config
+C:\Users\harry\Documents\csp\Chapter13\Ch13Ex01\Ch13Ex01\bin\Debug\Ch13Ex01.exe
+C:\Users\harry\Documents\csp\Chapter13\Ch13Ex01\Ch13Ex01\bin\Debug\Ch13Ex01.pdb
+C:\Users\harry\Documents\csp\Chapter13\Ch13Ex01\Ch13Ex01\obj\Debug\Ch13Ex01.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Chapter13\Ch13Ex01\Ch13Ex01\obj\Debug\Ch13Ex01.exe
+C:\Users\harry\Documents\csp\Chapter13\Ch13Ex01\Ch13Ex01\obj\Debug\Ch13Ex01.pdb

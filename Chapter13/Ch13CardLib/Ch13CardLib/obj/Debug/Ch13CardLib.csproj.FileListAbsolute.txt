@@ -1,0 +1,5 @@
+C:\Users\harry\Documents\csp\Beginning-C-Sharp-6-Programming\Chapter13\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\harry\Documents\csp\Beginning-C-Sharp-6-Programming\Chapter13\Ch13CardLib\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\harry\Documents\csp\Beginning-C-Sharp-6-Programming\Chapter13\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\csp\Beginning-C-Sharp-6-Programming\Chapter13\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\harry\Documents\csp\Beginning-C-Sharp-6-Programming\Chapter13\Ch13CardLib\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
