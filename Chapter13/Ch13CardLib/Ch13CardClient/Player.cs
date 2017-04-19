@@ -19,10 +19,16 @@ namespace Ch13CardClient
         public bool HasWon()
         {
             bool won = true;
-            Suit match = PlayHand[0].suit;
+            //Suit match = PlayHand[0].suit;
             for(int i=1;i<PlayHand.Count;++i)
             {
-                won &= PlayHand[i].suit == match;
+                //won &= PlayHand[i].suit == match;
+                //improve code:
+                if(PlayHand[i].suit!=PlayHand[0].suit)
+                {
+                    won = false;
+                    break;
+                }
             }
             return won;
         }
