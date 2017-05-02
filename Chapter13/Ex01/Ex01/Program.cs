@@ -43,19 +43,19 @@ namespace Ex01
         }
         #endregion
         #region The Answer
-        public void ProcessEvend(object source, EventArgs e)
-        {
-            if(e is MessageArriveEventArgs)
-            {
-                Console.WriteLine("Connection.MessageArrived event received.");
-                Console.WriteLine($"Message: {(e as MessageArriveEventArgs).Message}");
-            }
-            if(e is ElapsedEventArgs )
-            {
-                Console.WriteLine("Timer.Elapsed event received.");
-                Console.WriteLine($"SignalTime: {(e as ElapsedEventArgs).SignalTime}");
-            }
-        }
+        //public void ProcessEvend(object source, EventArgs e)
+        //{
+        //    if(e is MessageArriveEventArgs)
+        //    {
+        //        Console.WriteLine("Connection.MessageArrived event received.");
+        //        Console.WriteLine($"Message: {(e as MessageArriveEventArgs).Message}");
+        //    }
+        //    if(e is ElapsedEventArgs )
+        //    {
+        //        Console.WriteLine("Timer.Elapsed event received.");
+        //        Console.WriteLine($"SignalTime: {(e as ElapsedEventArgs).SignalTime}");
+        //    }
+        //}
         #endregion
     }
 }
